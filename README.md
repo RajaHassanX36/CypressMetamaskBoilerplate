@@ -117,9 +117,5 @@ To change what files should be executed in tests change it to following code and
   "testfile1",
   "testfile2"
 ]# CypressBoilerPlate
-# CypressBoilerPlate
-# CypressBoilerPlate
-# CypressBoilerPlate
-# CypressBoilerPlate
-# CypressMetamakBoilerPlate
-# CypressMetamaskBoilerplate
+
+
