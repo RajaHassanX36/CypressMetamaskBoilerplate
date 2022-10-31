@@ -1,0 +1,9 @@
+# dependency directories
+
+# files
+*.env
+videos
+cypress/fixtures/example.json
+cypress/fixtures/profile.json
+cypress/fixtures/users.json
+MetaMask

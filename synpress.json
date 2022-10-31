@@ -1,0 +1,32 @@
+{
+    "baseUrl": "https://stake.dafiprotocol.io/",
+    "userAgent": "synpress",
+    "retries": { "runMode": 0, "openMode": 0 },
+    "integrationFolder": "cypress/e2e",
+    "video": false,
+    "chromeWebSecurity": true,
+    "viewportWidth": 1366,
+    "viewportHeight": 850,
+
+    "_comment": [
+    "0.DashboardTestCases.cy.js",
+    "1.Regression.cy.js",
+    "2.PositiveTestCases.cy.js",
+    "3.HappyFlow.cy.js"
+  ],
+
+    "testFiles":[
+      "6.testRanksPage.cy.js"
+    ],
+    "component": {
+      "componentFolder": "."
+    },
+    "env": {
+      "coverage": false
+    },
+    "defaultCommandTimeout": 30000,
+    "pageLoadTimeout": 30000,
+    "requestTimeout": 30000,
+    "supportFile": "cypress/support/e2e.js"
+  }
+  
